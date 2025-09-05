@@ -1,6 +1,6 @@
 ## Hi there 👋
 this is my first repository. 
-<hr>
+<br>
 author- prakrit dwivedi
 
 <!--
